@@ -6,10 +6,10 @@ The group working on this hopes to design additional fw expasion cards in the fu
 
 ## TODO
 
-- Import any necessary files from the Framework Github Repo: https://github.com/FrameworkComputer/ExpansionCards
-    - Base KiCad design of Expansion Card
-        - Figure out whether regular or retrofit variants are needed/more suited
-    - CAD files for mechanical housing
+- ~~Import any necessary files from the Framework Github Repo: https://github.com/FrameworkComputer/ExpansionCards~~
+    - ~~Base KiCad design of Expansion Card~~
+        - ~~Figure out whether regular or retrofit variants are needed/more suited~~
+    - ~~CAD files for mechanical housing~~
         - Either decide on using OpenSCAD, or makig the design ourselves based on provided dimensions in other CAD software.
 
 - Electrical Schematic
