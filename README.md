@@ -10,7 +10,7 @@ The group working on this hopes to design additional fw expasion cards in the fu
     - ~~Base KiCad design of Expansion Card~~
         - ~~Figure out whether regular or retrofit variants are needed/more suited~~
     - ~~CAD files for mechanical housing~~
-        - Either decide on using OpenSCAD, or makig the design ourselves based on provided dimensions in other CAD software.
+        - Either decide on editing the existing stl files in software capable of that, or making the design ourselves based on provided dimensions in other CAD software.
 
 - Electrical Schematic
     - Decide on method of isolation (Current suggestion from MegaKG is to utilise Diodes and optical signals)
@@ -21,5 +21,5 @@ The group working on this hopes to design additional fw expasion cards in the fu
     - Start once Electrical Schematic has finished
 
 - Housing
-    - Ensure all chosen components fit within housinng dimensions before progressing with Electrical Schematic
+    - Ensure all chosen components fit within housing dimensions before progressing with Electrical Schematic
     - Test print base design before modifying for this project to ensure no other modifications are needed
